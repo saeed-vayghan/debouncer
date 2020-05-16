@@ -1,6 +1,6 @@
 {
   "name": "light-debouncer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yet another debouncer",
   "main": "index.js",
   "author": "saeed.vayghan@gmail.com",
@@ -8,9 +8,7 @@
   "keywords": [
     "debounce"
   ],
-  "scripts": {
-    "test": "mocha test.js --timeout 50000"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/saeed-vayghan/debouncer"
