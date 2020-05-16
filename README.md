@@ -1,9 +1,6 @@
-# my-debouncer
-Yet another debouncer
+# Yet another debouncer
 
-### Debounce: as long as it continues to be invoked, it will not be triggered or will be under specifi circumstances
-
-### Throttle: as long as it continues to be invoked, raise on every interval
+### Debounce: As long as it proceeds to be invoked/called, it will not be triggered or will be under specifi circumstances.
 
 ## Installation
 Install via NPM:

@@ -13,8 +13,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/my_package.git"
+    "url": "https://github.com/saeed-vayghan/debouncer"
   },
-  "homepage": "https://github.com/username/my_package",
+  "homepage": "https://github.com/saeed-vayghan/debouncer",
   "dependencies": {}
 }
