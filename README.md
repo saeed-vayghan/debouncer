@@ -6,7 +6,7 @@
 Install via NPM:
 
 ```bash
-npm install my-debouncer
+npm install light-debouncer
 
 ```
 
