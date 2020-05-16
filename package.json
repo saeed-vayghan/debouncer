@@ -1,5 +1,5 @@
 {
-  "name": "debouncer",
+  "name": "light-debouncer",
   "version": "1.0.0",
   "description": "Yet another debouncer",
   "main": "index.js",
