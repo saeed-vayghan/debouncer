@@ -1,6 +1,6 @@
 {
   "name": "light-debouncer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Yet another debouncer",
   "main": "index.js",
   "author": "saeed.vayghan@gmail.com",
